@@ -1,0 +1,2 @@
+# HandwrittenDigitsClassificationMLP
+Handwritten digits classification using multilayer perceptron neural network
